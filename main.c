@@ -389,6 +389,8 @@ static void ble_evt_handler(ble_evt_t const * p_ble_evt, void * p_context)
             bsp_board_led_on(CONNECTED_LED);
             bsp_board_led_off(ADVERTISING_LED);
             bsp_board_led_on(BSP_BOARD_LED_3);
+            //bsp_board_led_on(ARDUINO_10_PIN);
+            nrf_gpio_pin_write(ARDUINO_10_PIN, LEDS_ACTIVE_STATE ? 1 : 0);
             m_conn_handle = p_ble_evt->evt.gap_evt.conn_handle;
             err_code = nrf_ble_qwr_conn_handle_assign(&m_qwr, m_conn_handle);
             APP_ERROR_CHECK(err_code);
@@ -400,6 +402,8 @@ static void ble_evt_handler(ble_evt_t const * p_ble_evt, void * p_context)
             NRF_LOG_INFO("Disconnected");
             bsp_board_led_off(CONNECTED_LED);
             bsp_board_led_off(BSP_BOARD_LED_3);
+            //bsp_board_led_off(ARDUINO_10_PIN);
+            nrf_gpio_pin_write(ARDUINO_10_PIN, LEDS_ACTIVE_STATE ? 0 : 1);
             m_conn_handle = BLE_CONN_HANDLE_INVALID;
             err_code = app_button_disable();
             APP_ERROR_CHECK(err_code);
