@@ -585,7 +585,7 @@ int main(void)
 
     // Start execution.
     NRF_LOG_INFO("Blinky example started.");
-    //NRF_LOG_INFO("HelloHello, This is Tendo Maya");
+    NRF_LOG_INFO("HelloHello, This is Tendo Maya");
     advertising_start();
 
     // Enter main loop.
