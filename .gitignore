@@ -1,0 +1,164 @@
+
+hex/ble_app_blinky_pca10056_s140.hex
+hex/ble_app_blinky_pca10040e_s112.hex
+hex/ble_app_blinky_pca10040_s132.hex
+hex/ble_app_blinky_pca10059_s140.hex
+hex/license.txt
+pca10040/s132/arm4/ble_app_blinky_pca10040_s132.uvopt
+pca10040/s132/arm4/ble_app_blinky_pca10040_s132.uvproj
+pca10040/s132/arm5_no_packs/ble_app_blinky_pca10040_s132.uvoptx
+pca10040/s132/arm5_no_packs/ble_app_blinky_pca10040_s132.uvprojx
+pca10040/s132/armgcc/ble_app_blinky_gcc_nrf52.ld
+pca10040/s132/armgcc/Makefile
+pca10040/s132/iar/ble_app_blinky_iar_nRF5x.icf
+pca10040/s132/iar/ble_app_blinky_pca10040_s132.ewd
+pca10040/s132/iar/ble_app_blinky_pca10040_s132.ewp
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/app_button.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/app_button.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/app_error.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/app_error.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/app_error_handler_gcc.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/app_error_handler_gcc.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/app_error_weak.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/app_error_weak.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/app_scheduler.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/app_scheduler.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/app_timer.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/app_timer.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/app_util_platform.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/app_util_platform.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/ble_advdata.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/ble_advdata.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/ble_app_blinky_pca10040_s132.ind
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/ble_app_blinky_pca10040_s132.ld
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/ble_conn_params.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/ble_conn_params.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/ble_conn_state.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/ble_conn_state.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/ble_lbs.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/ble_lbs.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/ble_srv_common.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/ble_srv_common.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/boards.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/boards.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/hardfault_implementation.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/hardfault_implementation.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/main.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/main.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_assert.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_assert.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_atfifo.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_atfifo.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_atflags.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_atflags.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_atomic.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_atomic.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_balloc.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_balloc.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_ble_gatt.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_ble_gatt.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_ble_qwr.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_ble_qwr.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_drv_clock.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_drv_clock.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_drv_uart.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_drv_uart.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_fprintf.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_fprintf.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_fprintf_format.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_fprintf_format.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_log_backend_rtt.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_log_backend_rtt.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_log_backend_serial.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_log_backend_serial.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_log_backend_uart.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_log_backend_uart.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_log_default_backends.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_log_default_backends.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_log_frontend.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_log_frontend.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_log_str_formatter.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_log_str_formatter.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_memobj.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_memobj.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_pwr_mgmt.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_pwr_mgmt.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_ringbuf.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_ringbuf.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_sdh.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_sdh.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_sdh_ble.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_sdh_ble.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_sdh_soc.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_sdh_soc.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_section_iter.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_section_iter.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_strerror.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrf_strerror.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrfx_clock.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrfx_clock.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrfx_gpiote.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrfx_gpiote.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrfx_power_clock.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrfx_power_clock.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrfx_prs.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrfx_prs.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrfx_uart.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrfx_uart.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrfx_uarte.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/nrfx_uarte.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/SEGGER_RTT.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/SEGGER_RTT.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/SEGGER_RTT_printf.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/SEGGER_RTT_printf.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/SEGGER_RTT_Syscalls_SES.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/SEGGER_RTT_Syscalls_SES.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/ses_startup_nrf52.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/ses_startup_nrf52.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/ses_startup_nrf_common.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/ses_startup_nrf_common.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/system_nrf52.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/system_nrf52.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/thumb_crt0.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/thumb_crt0.o
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/utf.d
+pca10040/s132/ses/Output/ble_app_blinky_pca10040_s132 Release/Obj/utf.o
+pca10040e/s112/arm4/ble_app_blinky_pca10040e_s112.uvopt
+pca10040e/s112/arm4/ble_app_blinky_pca10040e_s112.uvproj
+pca10040e/s112/arm5_no_packs/ble_app_blinky_pca10040e_s112.uvoptx
+pca10040e/s112/arm5_no_packs/ble_app_blinky_pca10040e_s112.uvprojx
+pca10040e/s112/armgcc/ble_app_blinky_gcc_nrf52.ld
+pca10040e/s112/armgcc/Makefile
+pca10040e/s112/config/sdk_config.h
+pca10040e/s112/iar/ble_app_blinky_iar_nRF5x.icf
+pca10040e/s112/iar/ble_app_blinky_pca10040e_s112.ewd
+pca10040e/s112/iar/ble_app_blinky_pca10040e_s112.ewp
+pca10040e/s112/ses/ble_app_blinky_pca10040e_s112.emProject
+pca10040e/s112/ses/ble_app_blinky_pca10040e_s112.emSession
+pca10040e/s112/ses/flash_placement.xml
+pca10056/s140/arm4/ble_app_blinky_pca10056_s140.uvopt
+pca10056/s140/arm4/ble_app_blinky_pca10056_s140.uvproj
+pca10056/s140/arm5_no_packs/ble_app_blinky_pca10056_s140.uvoptx
+pca10056/s140/arm5_no_packs/ble_app_blinky_pca10056_s140.uvprojx
+pca10056/s140/armgcc/ble_app_blinky_gcc_nrf52.ld
+pca10056/s140/armgcc/Makefile
+pca10056/s140/config/sdk_config.h
+pca10056/s140/iar/ble_app_blinky_iar_nRF5x.icf
+pca10056/s140/iar/ble_app_blinky_pca10056_s140.ewd
+pca10056/s140/iar/ble_app_blinky_pca10056_s140.ewp
+pca10056/s140/ses/ble_app_blinky_pca10056_s140.emProject
+pca10056/s140/ses/ble_app_blinky_pca10056_s140.emSession
+pca10056/s140/ses/flash_placement.xml
+pca10059/s140/arm4/ble_app_blinky_pca10059_s140.uvopt
+pca10059/s140/arm4/ble_app_blinky_pca10059_s140.uvproj
+pca10059/s140/arm5_no_packs/ble_app_blinky_pca10059_s140.uvoptx
+pca10059/s140/arm5_no_packs/ble_app_blinky_pca10059_s140.uvprojx
+pca10059/s140/armgcc/ble_app_blinky_gcc_nrf52.ld
+pca10059/s140/armgcc/Makefile
+pca10059/s140/config/sdk_config.h
+pca10059/s140/iar/ble_app_blinky_iar_nRF5x.icf
+pca10059/s140/iar/ble_app_blinky_pca10059_s140.ewd
+pca10059/s140/iar/ble_app_blinky_pca10059_s140.ewp
+pca10059/s140/ses/ble_app_blinky_pca10059_s140.emProject
+pca10059/s140/ses/ble_app_blinky_pca10059_s140.emSession
+pca10059/s140/ses/flash_placement.xml
